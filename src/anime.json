@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "titre": "Neon Genesis Evangelion",
+        "realisateur": "Hideaki Anno",
+        "annee": 1995,
+        "description": "Dans un avenir post-apocalyptique, une organisation combat des êtres géants appelés Anges à l'aide de robots géants pilotés par des adolescents."
+    },
+    {
+        "id": 2,
+        "titre": "Cowboy Bebop",
+        "realisateur": "Shinichiro Watanabe",
+        "annee": 1998,
+        "description": "Suivez les aventures de Spike Spiegel et de son équipage de chasseurs de primes dans l'espace en 2071."
+    },
+    {
+        "id": 3,
+        "titre": "Fullmetal Alchemist: Brotherhood",
+        "realisateur": "Yasuhiro Irie",
+        "annee": 2009,
+        "description": "Les frères Elric utilisent l'alchimie dans leur quête pour retrouver leurs corps après une tentative de résurrection de leur mère qui a mal tourné."
+    },
+    {
+        "id": 4,
+        "titre": "Death Note",
+        "realisateur": "Tetsurō Araki",
+        "annee": 2006,
+        "description": "Light Yagami découvre un cahier qui permet de tuer quiconque dont le nom est écrit dedans."
+    },
+    {
+        "id": 5,
+        "titre": "Attack on Titan (Shingeki no Kyojin)",
+        "realisateur": "Tetsurō Araki",
+        "annee": 2013,
+        "description": "L'humanité est au bord de l'extinction à cause de créatures géantes appelées Titans. Eren Yeager et ses amis se battent pour survivre."
+    },
+    {
+        "id": 6,
+        "titre": "Steins;Gate",
+        "realisateur": "Hiroshi Hamasaki, Takuya Satō",
+        "annee": 2011,
+        "description": "Un groupe d'amis développe un moyen de communiquer avec le passé, avec des conséquences imprévues."
+    },
+    {
+        "id": 7,
+        "titre": "One Punch Man",
+        "realisateur": "Shingo Natsume, Chikara Sakurai",
+        "annee": 2015,
+        "description": "Saitama peut vaincre n'importe quel ennemi avec un seul coup de poing, mais il cherche un adversaire digne."
+    },
+    {
+        "id": 8,
+        "titre": "Naruto",
+        "realisateur": "Hayato Date",
+        "annee": 2002,
+        "description": "Naruto Uzumaki, un ninja aspirant de Konohagakure, rêve de devenir Hokage."
+    },
+    {
+        "id": 9,
+        "titre": "My Hero Academia (Boku no Hero Academia)",
+        "realisateur": "Kenji Nagasaki, Masahiro Mukai",
+        "annee": 2016,
+        "description": "Dans un monde où la plupart des gens ont des super-pouvoirs, Izuku Midoriya veut devenir un héros malgré l'absence de pouvoirs."
+    },
+    {
+        "id": 10,
+        "titre": "Your Lie in April (Shigatsu wa Kimi no Uso)",
+        "realisateur": "Kyohei Ishiguro",
+        "annee": 2014,
+        "description": "Un pianiste prodige rencontre une violoniste qui change sa vie après avoir perdu sa capacité à entendre le son du piano."
+    },
+    {
+        "id": 11,
+        "titre": "Demon Slayer (Kimetsu no Yaiba)",
+        "realisateur": "Haruo Sotozaki",
+        "annee": 2019,
+        "description": "Tanjiro Kamado devient un tueur de démons pour venger sa famille et sauver sa sœur transformée en démon."
+    },
+    {
+        "id": 12,
+        "titre": "Hunter x Hunter",
+        "realisateur": "Kazuhiro Furuhashi, Hiroshi Kojina",
+        "annee": 2011,
+        "description": "Gon Freecss, à la recherche de son père disparu, devient un Hunter et se lie d'amitié avec trois autres candidats."
+    },
+    {
+        "id": 13,
+        "titre": "Gintama",
+        "realisateur": "Shinji Takamatsu, Yoichi Fujita, Chizuru Miyawaki",
+        "annee": 2006,
+        "description": "Dans un Edo occupé par des extraterrestres, Gintoki Sakata mène une vie de samouraï freelance."
+    },
+    {
+        "id": 14,
+        "titre": "Spirited Away (Sen to Chihiro no Kamikakushi)",
+        "realisateur": "Hayao Miyazaki",
+        "annee": 2001,
+        "description": "Chihiro, une fille de 10 ans, navigue dans un monde de dieux après que ses parents aient été transformés en cochons."
+    },
+    {
+        "id": 15,
+        "titre": "Clannad: After Story",
+        "realisateur": "Tatsuya Ishihara",
+        "annee": 2008,
+        "description": "La suite de 'Clannad' se concentrant sur la vie adulte de Tomoya après le lycée."
+    },
+    {
+        "id": 16,
+        "titre": "Made in Abyss",
+        "realisateur": "Masayuki Kojima",
+        "annee": 2017,
+        "description": "Riko, une jeune orpheline, explore un gouffre mystérieux connu sous le nom d'Abysse avec son ami robot Reg."
+    },
+    {
+        "id": 17,
+        "titre": "Monogatari Series",
+        "realisateur": "Akiyuki Shinbo",
+        "annee": 2009,
+        "description": "Koyomi Araragi, un lycéen, se retrouve impliqué dans un monde de créatures surnaturelles après avoir été mordu par un vampire."
+    },
+    {
+        "id": 18,
+        "titre": "Code Geass",
+        "realisateur": "Gorō Taniguchi",
+        "annee": 2006,
+        "description": "Lelouch Lamperouge, un prince exilé, reçoit un pouvoir appelé 'Geass' et mène une rébellion contre l'Empire Britannien."
+    },
+    {
+        "id": 19,
+        "titre": "Mob Psycho 100",
+        "realisateur": "Yuzuru Tachikawa",
+        "annee": 2016,
+        "description": "Shigeo 'Mob' Kageyama est un puissant esper qui tente de vivre une vie normale malgré ses pouvoirs psychiques."
+    },
+    {
+        "id": 20,
+        "titre": "Re:Zero - Starting Life in Another World",
+        "realisateur": "Masaharu Watanabe",
+        "annee": 2016,
+        "description": "Subaru Natsuki est transporté dans un monde fantastique où il découvre qu'il a la capacité de revenir de la mort."
+    }
+]

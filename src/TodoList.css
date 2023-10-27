@@ -1,0 +1,91 @@
+.app {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 100px;
+  }
+  
+  .App-header {
+    background-color: #655c5c;
+    color: #fff;
+    padding: 50px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  h1 {
+    font-size: 32px;
+    margin: 0;
+  }
+  
+  .add-task-form {
+    margin-top: 20px;
+  }
+  
+  .add-task-input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  
+  .add-task-button {
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .add-task-button:hover {
+    background-color: #0056b3;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  li:last-child {
+    border-bottom: none;
+  }
+  
+
+  
+  .checkbox-input + .delete-button {
+    margin-left: 10px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .checkbox-input:checked + .checkbox-custom {
+    background-color: #007bff;
+    color: #fff;
+    border-color: #007bff;
+  }
+  
+  #root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+
