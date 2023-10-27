@@ -1,5 +1,5 @@
-# React + TypeScript + Vite
-Esteban Dardillac
+# React Esteban Dardillac
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
